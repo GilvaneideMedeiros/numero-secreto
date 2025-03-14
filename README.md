@@ -5,6 +5,12 @@
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
+
+
+https://github.com/user-attachments/assets/3605439d-1065-4998-b65a-baae4df4f205
+
+
+
 ## �� Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
